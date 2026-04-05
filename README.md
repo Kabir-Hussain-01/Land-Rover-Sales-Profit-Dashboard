@@ -35,30 +35,30 @@ The dashboard enables stakeholders to explore data across multiple dimensions su
 
 ### 🔹 Page 1: Global Sales Overview
 
-![Dashboard](page1.png)
+![Dashboard](page_1.png)
 
 ---
 
 ### 🔹 Page 2: Sales & Profit Performance
 
-![Dashboard](page2.png)
+![Dashboard](page_2.png)
 
 ---
 
 ### 🔹 Page 3: Model & Fuel Analysis
 
-![Dashboard](page3.png)
+![Dashboard](page_3.png)
 
 ---
 
 ### 🔹 Page 4: Regional & Detailed Analysis
 
-![Dashboard](page4.png)
+![Dashboard](page_4.png)
 
 ---
 
 ### 🔹 Page 5: Advanced Insights / Final Analysis
-![Dashboard](page5.png)
+![Dashboard](page_5.png)
 
 ## ⚙️ Project Workflow
 
